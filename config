@@ -1,0 +1,5 @@
+# Caen login
+Host caen
+    HostName    login.engin.umich.edu
+    User        deedstho
+    Compression yes
